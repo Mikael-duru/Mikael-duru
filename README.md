@@ -10,9 +10,6 @@
   <a href="https://twitter.com/MikaelDuru">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://wa.me/2348114876500">
-    <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
   </div>
   
   <!-- Profile visitor counter -->

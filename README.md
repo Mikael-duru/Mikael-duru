@@ -37,7 +37,7 @@ I'm Mikael Duru, I am a Front-End Web Developer <img src="https://media.giphy.co
 
 - :zap: In my free time, I solve challenges on Frontend Mentor and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MikaelDuru)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Durumykael)
 
 ---
 
@@ -47,6 +47,9 @@ I'm Mikael Duru, I am a Front-End Web Developer <img src="https://media.giphy.co
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original-wordmark.svg" title="SASS" alt="SASS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original-wordmark.svg" title="tailwind" alt="tailwind" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
 </div>
 
 ---
